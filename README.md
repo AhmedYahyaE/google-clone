@@ -8,11 +8,11 @@ Used Google Favicon too.
 
 Implemented the clone using both Flexbox and Display CSS properties in two separate folders/directories.
 
-Check the reposiory files for both:
+Check the repository files for both:
 
-1- [Using CSS Flexbox property](<Using CSS Flexbox - vh - Favicon/index.html>)
+1- [Using CSS Flexbox property.](<Using CSS Flexbox - vh - Favicon/index.html>)
 
-2- [Using CSS display table property](<Using CSS display table - Position - Favicon/index.html>)
+2- [Using CSS display table property.](<Using CSS display table - Position - Favicon/index.html>)
 
 It's really close to the original Google! 😎😉👍
 
