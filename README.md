@@ -8,7 +8,7 @@ Used Google Favicon too.
 
 Implemented the clone using both Flexbox and Display CSS properties in two separate folders/directories.
 
-Check the repposiory files for:
+Check the reposiory files for both:
 
 1- [Using CSS Flexbox property](<Using CSS Flexbox - vh - Favicon/index.html>)
 
